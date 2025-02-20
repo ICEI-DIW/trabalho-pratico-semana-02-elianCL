@@ -3,7 +3,7 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Elian Eliezer
+- Matricula: 705678
 
 ## Print da tela da página criad
